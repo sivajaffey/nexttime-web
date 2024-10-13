@@ -1,0 +1,16 @@
+## Nexttime web application
+
+## About
+-   This is application is built for existing application exist in Playstore : Nexttime. Here reports are currently visible for current users only. The web app is used to share reports public and also helps for future API configuration.
+
+## Available android app
+About Nexttime : https://nexttime.business.blog/
+Android: https://play.google.com/store/apps/details?id=com.sr.nexttime
+
+## Development tools
+This is built using Java Sprintboot with Maven Dependancies. 
+- Java version: 17
+- Springboot version: 3.3.4
+
+## Developed By
+Developer: https://sivaraman.business.blog
