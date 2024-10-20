@@ -13,6 +13,6 @@ public class LandingApp {
     @RequestMapping("/")
     @ResponseBody
     public String Landing() {
-        return "Welcome to nextime web, This app is build to show your time logs in public";
+        return "Welcome to nextime web, This app is build to share your time logss public";
     }
 }
